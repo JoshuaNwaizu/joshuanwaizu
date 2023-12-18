@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋, my name is Joshua Nwaizu
+#### A passionate frontend developer from Nigeria
+![A passionate frontend developer from Nigeria](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMcRs8jZWXOHGjls32j0d3Wh2x9wrjuWBTQ&usqp=CAU)
 
-<!--
-**JoshuaNwaizu/joshuanwaizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack alchemist, weaving frontend magic with backend logic. Crafting pixel-perfect experiences one line of code at a time. Passionate about performance, scalability, and clean architecture.
 
-Here are some ideas to get you started:
+Skills: REACT/  JS / HTML / CSS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on A sushi website. 
+- 🌱 I’m currently learning React JS 
+- 💬 Ask me about Web Development, MERN stack 
+- 📫 How to reach me: joshuachris000@gmail.com 
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I love memes. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoshuaNwaizu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joshua-nwaizu-506952265/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jnsdev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JNS_dev)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoshuaNwaizu)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaNwaizu)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaNwaizu&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/JoshuaNwaizu/contributions?format=svg&private=false)  
+
