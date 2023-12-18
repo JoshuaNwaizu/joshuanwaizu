@@ -24,5 +24,5 @@ Skills: REACT/  JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaNwaizu&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/JoshuaNwaizu/contributions?format=svg&private=false)  
+
 
