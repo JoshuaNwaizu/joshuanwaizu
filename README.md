@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Joshua Nwaizu
+### Hi there 👋, my name is Joshua Nwaizu Somtochukwu
 #### A passionate frontend developer from Nigeria
 ![A passionate frontend developer from Nigeria](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMcRs8jZWXOHGjls32j0d3Wh2x9wrjuWBTQ&usqp=CAU)
 
