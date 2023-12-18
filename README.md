@@ -2,11 +2,11 @@
 #### A passionate frontend developer from Nigeria
 ![A passionate frontend developer from Nigeria](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwMcRs8jZWXOHGjls32j0d3Wh2x9wrjuWBTQ&usqp=CAU)
 
-Full-stack alchemist, weaving frontend magic with backend logic. Crafting pixel-perfect experiences one line of code at a time. Passionate about performance, scalability, and clean architecture.
+Full Stack Developer | Turning coffee into code ☕️ | Passionate about building scalable and innovative web applications 💻 | Always learning and exploring new technologies 🌐 | JavaScript enthusiast with expertise in both front-end and back-end development 🚀 | Let's collaborate and create something awesome! 🚀
 
-Skills: REACT/  JS / HTML / CSS 
+Skills: REACT/ JS / HTML / CSS 
 
-- 🔭 I’m currently working on A sushi website. 
+- 🔭 I’m currently working on a sushi website. 
 - 🌱 I’m currently learning React JS 
 - 💬 Ask me about Web Development, MERN stack 
 - 📫 How to reach me: joshuachris000@gmail.com 
