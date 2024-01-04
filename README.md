@@ -4,12 +4,19 @@
 
 ![A passionate frontend developer from Nigeria](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1708560000&v=beta&t=8H9wcVcfLVk1aT6yqzeEiC6Y1nv77VeAYinXMosw5P4)
 
+<h3>Hello there! 👋 I'm Joshua, a passionate Full Stack Developer with a deep love for creating innovative and user-friendly applications. I have a diverse skill set that spans both front-end and back-end technologies, allowing me to bring complete and efficient solutions to the table.</h3>
+
 <p align="center"><img align="center" alt="JoshuaNwaizu" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoshuaNwaizu&label=Profile%20views&color=0e75b6&style=flat" alt="JoshuaNwaizu"/> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoshuaNwaizu" alt="JoshuaNwaizu" /></a> </p>
+<h1>About Me</h1>
+- 💻 I specialize in building web applications and have experience with a variety of programming languages, frameworks, and libraries.
+- 🌐 My expertise includes front-end technologies like HTML, CSS, JavaScript (React.js), as well as back-end technologies such as Node.js and Express.
+- 🛠 I am proficient in database management using both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.
+-  I am passionate about staying up-to-date with the latest industry trends and technologies to continually improve my skills and deliver cutting-edge solutions.
 
 <h2> Skills: REACT/ JS / HTML / CSS </h2>
 
