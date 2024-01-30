@@ -20,7 +20,7 @@
 
 <h2> Skills: REACT/ JS / HTML / CSS </h2>
 
-- 🔭 I’m currently working on a sushi website. 
+- 🔭 I’m currently working on a Quiz application. 
 - 🌱 I’m currently learning React JS 
 - 💬 Ask me about Web Development, MERN stack 
 - 📫 How to reach me: joshuachris000@gmail.com 
