@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi there 👋, my name is Joshua Nwaizu Somtochukwu</h1>
-<h3 align="center"> A passionate full-stack developer from Nigeria</h3>
+<h1 align="center"> My name is Joshua Nwaizu Somtochukwu.</h1>
+<h3 align="center"> A passionate full-stack developer from Nigeria.</h3>
 
 ![A passionate frontend developer from Nigeria](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1708560000&v=beta&t=8H9wcVcfLVk1aT6yqzeEiC6Y1nv77VeAYinXMosw5P4)
 
