@@ -16,10 +16,10 @@
 
 - 🔭 I’m currently working on an application. 
 - 🌱 I’m currently learning React JS 
-- 💬 Ask me about Web Development, MERN stack 
+- 💬 Ask me about Web Development.
 - 📫 How to reach me: joshuachris000@gmail.com 
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: I love memes.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
