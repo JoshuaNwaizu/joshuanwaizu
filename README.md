@@ -1,7 +1,7 @@
 
 <h1 align="center"> My name is Joshua Nwaizu Somtochukwu.</h1>
 
-<p>Hello there! 👋 I'm Joshua, a passionate Full Stack Developer with a deep love for creating innovative and user-friendly applications. I have a diverse skill set that spans both front-end and back-end technologies, allowing me to bring complete and efficient solutions to the table.</p>
+<p>A passionate Full Stack Developer with a deep love for creating innovative and user-friendly applications. I have a diverse skill set that spans both front-end and back-end technologies, allowing me to bring complete and efficient solutions to the table.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoshuaNwaizu&label=Profile%20views&color=0e75b6&style=flat" alt="JoshuaNwaizu"/> </p>
 
