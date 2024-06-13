@@ -1,7 +1,7 @@
 
-<h1 align="center"> Hi! I'm Joshua. It's nice to meet you. 👋</h1>
+<h1 align="left"> Hi! I'm Joshua. It's nice to meet you. 👋</h1>
 
-<h2 align="center">About Me 👨</h2>
+<h2 align="left">About Me 👨</h2>
 
 <p align="left">I'm a front-end developer who is passionate about creating beautiful and functional web applications. My expertise lies in HTML, CSS, Tailwind CSS JavaScript and TypeScript.
 
