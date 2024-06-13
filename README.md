@@ -11,7 +11,7 @@ I've worked on a variety of projects in the past, both small and large-scale. Fr
 
 I'm a lifelong learner and love to stay up to date with the latest industry trends and best practices. Collaboration is key for me, and I enjoy working with others to find creative solutions to technical challenges.
 
-If you're looking for a front-end developer who brings passion, experience, and a love for React, HTML, CSS and Ruby on Rails to the table, then I'm your guy! Let's work together and build something amazing!
+If you're looking for a front-end developer who brings passion, experience, and a love for HTML, CSS, Tailwind CSS JavaScript and TypeScript to the table, then I'm your guy! Let's work together and build something amazing!
 
 </p>
 
@@ -19,16 +19,12 @@ If you're looking for a front-end developer who brings passion, experience, and 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoshuaNwaizu" alt="JoshuaNwaizu" /></a> </p>
 
-<h1>About Me</h1>
-- 💻 I specialize in building web applications and have experience with a variety of programming languages, frameworks, and libraries.
-- 🌐 My expertise includes front-end technologies like HTML, CSS, JavaScript (React.js), as well as back-end technologies such as Node.js and Express.
-- 🛠 I am proficient in database management using both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.
--  I am passionate about staying up-to-date with the latest industry trends and technologies to continually improve my skills and deliver cutting-edge solutions.
+
 
 <h2> Skills: HTML/ CSS / TAILWIND CSS / JAVASCRIPT / TYPESCRIPT  </h2>
 
 - 🔭 I’m currently working on an application. 
-- 🌱 I’m currently learning React JS 
+- 🌱 I’m currently Practicing React JS by building applications
 - 💬 Ask me about Web Development.
 - 📫 How to reach me: joshuachris000@gmail.com 
 - 😄 Pronouns: he/him 
