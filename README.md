@@ -1,18 +1,31 @@
 
-<h1 align="center"> My name is Joshua Nwaizu Somtochukwu.</h1>
+<h1 align="center"> Hi! I'm Joshua. It's nice to meet you. 👋</h1>
 
-<p>A passionate Full Stack Developer with a deep love for creating innovative and user-friendly applications. I have a diverse skill set that spans both front-end and back-end technologies, allowing me to bring complete and efficient solutions to the table.</p>
+<h2 align="center">About Me 👨</h2>
+
+<p align="left">I'm a front-end developer who is passionate about creating beautiful and functional web applications. My expertise lies in HTML, CSS, Tailwind CSS JavaScript and TypeScript.
+
+I have a strong understanding of front-end development principles and have gained experience building responsive and user-friendly web pages. I love using React to create dynamic user interfaces and manage state, and I have a talent for combining HTML and CSS to create visually appealing layouts. Plus, I have the added bonus of experience in integrating front-end components with Ruby on Rails back-end systems.
+
+I've worked on a variety of projects in the past, both small and large-scale. From start to finish, I bring my skills in using version control systems (such as Git) and my focus on writing clean, maintainable and well-documented code to every project.
+
+I'm a lifelong learner and love to stay up to date with the latest industry trends and best practices. Collaboration is key for me, and I enjoy working with others to find creative solutions to technical challenges.
+
+If you're looking for a front-end developer who brings passion, experience, and a love for React, HTML, CSS and Ruby on Rails to the table, then I'm your guy! Let's work together and build something amazing!
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoshuaNwaizu&label=Profile%20views&color=0e75b6&style=flat" alt="JoshuaNwaizu"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoshuaNwaizu" alt="JoshuaNwaizu" /></a> </p>
+
 <h1>About Me</h1>
 - 💻 I specialize in building web applications and have experience with a variety of programming languages, frameworks, and libraries.
 - 🌐 My expertise includes front-end technologies like HTML, CSS, JavaScript (React.js), as well as back-end technologies such as Node.js and Express.
 - 🛠 I am proficient in database management using both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.
 -  I am passionate about staying up-to-date with the latest industry trends and technologies to continually improve my skills and deliver cutting-edge solutions.
 
-<h2> Skills: REACT/ JS / HTML / CSS </h2>
+<h2> Skills: HTML/ CSS / TAILWIND CSS / JAVASCRIPT / TYPESCRIPT  </h2>
 
 - 🔭 I’m currently working on an application. 
 - 🌱 I’m currently learning React JS 
