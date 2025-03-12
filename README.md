@@ -3,15 +3,15 @@
 
 <h2 align="left">About Me 👨</h2>
 
-<p align="left">I'm a front-end developer who is passionate about creating beautiful and functional web applications. My expertise lies in HTML, CSS, Tailwind CSS JavaScript and TypeScript.
+<p align="left">I'm a Fullstack developer who is passionate about creating beautiful and functional web applications. My expertise lies in HTML, CSS, Tailwind CSS JavaScript, TypeScript, React, Next.JS, Node.JS, Express.js and MongoDB.
 
-I have a strong understanding of front-end development principles and have gained experience building responsive and user-friendly web pages. I love using React to create dynamic user interfaces and manage state, and I have a talent for combining HTML and CSS to create visually appealing layouts.
+I have a strong understanding of Full-Stack development principles and have gained experience building responsive and user-friendly web pages. I love using React to create dynamic user interfaces and manage state, and I have a talent for combining the MERN stack (MongoDb, ExpressJs, React and NodeJS) to create visually appealing layouts.
 
 I've worked on a variety of projects in the past, both small and large-scale. From start to finish, I bring my skills in using version control systems (such as Git) and my focus on writing clean, maintainable and well-documented code to every project.
 
 I'm a lifelong learner and love to stay up to date with the latest industry trends and best practices. Collaboration is key for me, and I enjoy working with others to find creative solutions to technical challenges.
 
-If you're looking for a front-end developer who brings passion, experience, and a love for HTML, CSS, Tailwind CSS JavaScript and TypeScript to the table, then I'm your guy! Let's work together and build something amazing!
+If you're looking for a Full-Stack developer who brings passion and experience, then I'm your guy! Let's work together and build something amazing!
 
 </p>
 
@@ -20,11 +20,7 @@ If you're looking for a front-end developer who brings passion, experience, and 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoshuaNwaizu" alt="JoshuaNwaizu" /></a> </p>
 
 
-
-<h2> Skills: HTML/ CSS / TAILWIND CSS / JAVASCRIPT / TYPESCRIPT  </h2>
-
-- 🔭 I’m currently working on an application. 
-- 🌱 I’m currently Practicing React JS by building applications
+- 🌱 I’m currently Building Full-stack apps
 - 💬 Ask me about Web Development.
 - 📫 How to reach me: joshuachris000@gmail.com 
 - 😄 Pronouns: he/him 
