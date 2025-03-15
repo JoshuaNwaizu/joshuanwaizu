@@ -3,7 +3,7 @@
 
 <h2 align="left">About Me 👨</h2>
 
-<p align="left">I'm a Fullstack developer who is passionate about creating beautiful and functional web applications. My expertise lies in HTML, CSS, Tailwind CSS JavaScript, TypeScript, React, Next.JS, Node.JS, Express.js and MongoDB.
+<p align="left">I'm a Fullstack developer who creates beautiful and functional web applications. My expertise lies in HTML, CSS, Tailwind CSS JavaScript, TypeScript, React, Next.JS, Node.JS, Express.js and MongoDB.
 
 I have a strong understanding of Full-Stack development principles and have gained experience building responsive and user-friendly web pages. I love using React to create dynamic user interfaces and manage state, and I have a talent for combining the MERN stack (MongoDb, ExpressJs, React and NodeJS) to create visually appealing layouts.
 
